@@ -1,5 +1,11 @@
  - mekanisme model komunikasi data 
 1.Network client -> network protocol -> Network adapter
-                    TCP/IP
+                    TCP/IP  Ipx/Spx                    -> Network Cable
 2.network server -> network protocol -> Network adapter
-                    TCP/IP
+                    TCP/IP  Ipx/Spx 
+
+
+
+
+
+
